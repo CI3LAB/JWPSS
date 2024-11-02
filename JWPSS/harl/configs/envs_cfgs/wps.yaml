@@ -1,0 +1,23 @@
+#path: '../PSPLIB_dataset/problems_60_complete.npy'
+#path: '../PSPLIB_dataset/problems_30_complete.npy'
+#path: '../harl/PSPLIB_dataset/problems_15-10_complete.npy'
+
+path: '../harl/PSPLIB_dataset/problems_15.npy'
+
+project_index: 0
+scenario: project_15_data
+task: 15_tasks
+
+
+
+
+
+
+# env_num_agents (for REFERENCE):
+#   "academy_pass_and_shoot_with_keeper": 2,
+#   "academy_run_pass_and_shoot_with_keeper": 2,
+#   "academy_3_vs_1_with_keeper": 3,
+#   "academy_counterattack_easy": 4,
+#   "academy_counterattack_hard": 4,
+#   "academy_corner": 11,
+#   "academy_single_goal_versus_lazy": 11
